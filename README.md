@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+2020-09-14
 
 ### Project Title
-Replace the Project Title
+Bikeshare data analysis
 
 ### Description
-Describe what your project is about and what it does
+Solution for Bikeshare data analysis assignment in Udacity course [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
 
 ### Files used
 Include the files used
