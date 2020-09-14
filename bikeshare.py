@@ -27,11 +27,11 @@ class Col:
     user_type = "User Type"
     gender = "Gender"
     birth_year = "Birth Year"
-    month = "month"
-    day_of_week = "day_of_week"
-    month_name = "month_name"
-    day_name = "day_name"
-    hour = "hour"
+    month = "Month"
+    day_of_week = "Day of Week"
+    month_name = "Month Name"
+    day_name = "Day Name"
+    hour = "Hour"
 
 
 def input_str_from_valid(valid_inputs, input_msg, err_msg, lower_case=True):
