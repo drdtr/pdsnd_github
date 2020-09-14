@@ -70,7 +70,7 @@ def pd_options():
     pd.options.display.max_columns = 20
 
 
-def print_hline(length = 80):
+def print_hline(length = 100):
     print("-" * length)
 
 
