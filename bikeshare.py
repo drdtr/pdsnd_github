@@ -1,3 +1,7 @@
+"""
+Solution for Bikeshare data analysis assignment in Udacity course https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
+"""
+
 import calendar
 import datetime as dt
 import time
