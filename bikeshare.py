@@ -4,6 +4,7 @@ import time
 
 import pandas as pd
 
+# city names and corresponding csv data files
 city_filenames = {'chicago': 'chicago.csv',
                   'new york city': 'new_york_city.csv',
                   'washington': 'washington.csv'}
