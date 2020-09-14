@@ -12,5 +12,9 @@ Solution for Bikeshare data analysis assignment in Udacity course [Programming f
 - `bikeshare.py`
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Resources used:
+- [Python 3.8 documentation](https://docs.python.org/3.8/)
+- [NumPy documentations](https://docs.scipy.org/doc/numpy-1.13.0/)
+- [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
+
 
