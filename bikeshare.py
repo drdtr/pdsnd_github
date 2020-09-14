@@ -135,8 +135,8 @@ def load_data(city, month, day):
     # add columns with month, day of week, and hour from Start Time
     df[Col.month] = df[Col.start_time].dt.month
     df[Col.day_of_week] = df[Col.start_time].dt.dayofweek
-    df[Col.month_name] = df[Col.start_time].dt.day_name()
-    df[Col.day_name] = df[Col.start_time].dt.month_name()
+    df[Col.day_name] = df[Col.start_time].dt.day_name()
+    df[Col.month_name] = df[Col.start_time].dt.month_name()
     df[Col.hour] = df[Col.start_time].dt.hour
 
     if month != 'all':
