@@ -8,7 +8,8 @@ Bikeshare data analysis
 Solution for Bikeshare data analysis assignment in Udacity course [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
 
 ### Files used
-Include the files used
+
+- `bikeshare.py`
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
